@@ -1,0 +1,19 @@
+{
+  "theme": "失敗から分かったこと",
+  "goal": "プロフィール訪問",
+  "post_structure": [
+    "意外な結論",
+    "実際に起きた出来事",
+    "失敗・想定外",
+    "学び",
+    "読者への示唆"
+  ],
+  "quality_checks": {
+    "has_real_experience": true,
+    "has_specific_fact": true,
+    "too_generic": false
+  },
+  "revision_required": false,
+  "human_review_required": true,
+  "status": "waiting_human_review"
+}
